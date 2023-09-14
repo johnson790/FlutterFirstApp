@@ -5,7 +5,7 @@ void main() {
   runApp(
  const   MaterialApp(
       home: Scaffold(
-        body:const GradientContainer(),
+        body: GradientContainer(),
       ),
     ),
   );
